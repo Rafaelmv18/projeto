@@ -1,5 +1,5 @@
 * {
-  margin: 1;
+  margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
@@ -25,13 +25,6 @@
 }
 
 body {
-  /*
-  background-image: url(./assets/bg-mobile.jpg);
-  background-repeat: no-repeat;
-  background-position: top center;
-  background-size: cover;
-  */
-
   /*background: color image repeat position/size */
   background: var(--bg-url) no-repeat top center/cover;
   height: 100vh;
