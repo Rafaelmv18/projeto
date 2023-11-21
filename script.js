@@ -1,10 +1,10 @@
 function toggleMode() {
   const html = document.documentElement
 
-  //  if (html.classList.contains("light")) {
-  //    html.classList.remove("light")
+  //  if (html.classList.contains("dark")) {
+  //    html.classList.remove("dark")
   //  } else {
-  //    html.classList.add("light")
+  //    html.classList.add("dark")
   //}
-  html.classList.toggle("light")
+  html.classList.toggle("dark")
 }
